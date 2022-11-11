@@ -1,0 +1,17 @@
+baseURL = "https://www.clubdelecture.nyc"
+languageCode = "en-us"
+title = "Club de lecture NYC"
+theme = "yourfolio"
+disableKinds = [ "RSS", "taxonomy", "taxonomyTerm" ]
+googleAnalytics = "UA-XXXXX-Y"
+
+
+[[menu.main]]
+name = "Contact"
+weight = 2
+url = "/contact"
+
+[params]
+env = "development"
+logoImage = "/bookmark-logo.png"
+logoImageAlt = "Club de lecture NYC logo"
