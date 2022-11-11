@@ -4,7 +4,7 @@ title = "Club de lecture NYC"
 theme = "yourfolio"
 disableKinds = [ "RSS", "taxonomy", "taxonomyTerm" ]
 #UA ID UA-91453506-2 #
-googleAnalytics = "G-40FQVRP3Q7"
+googleAnalytics = "UA-91453506-2"
 #GA4 ID G-40FQVRP3Q7 #
 
 
