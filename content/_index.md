@@ -7,8 +7,8 @@ description: NYC French Book Club welcomes you! With this group, the goal is to 
 header:
   description: Hi there! We're a <span class="accent-text">community of readers</span> in New York City focusing on contemporary French literature.
   image:
-    url: home-hero.png
-    alt: The top of mountain image
+    url: home-hero.jpg
+    alt: A table with old books, one of which is open to show a large atlas.
     media: "(max-width: 46.25em)"
     params:
     - options: 1130x500 jpg
