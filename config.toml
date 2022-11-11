@@ -3,7 +3,10 @@ languageCode = "en-us"
 title = "Club de lecture NYC"
 theme = "yourfolio"
 disableKinds = [ "RSS", "taxonomy", "taxonomyTerm" ]
-googleAnalytics = "UA-91453506-2"
+#UA ID UA-91453506-2 #
+googleAnalytics = "342096183"
+#GA4 ID 342096183 #
+
 
 
 [[menu.main]]
